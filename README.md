@@ -1,3 +1,5 @@
+This fork is based of the jekyll-gulp-sass-browser-sync repo created by shakyShane and expanded with the folder structure and Jade implimentation used by DevTips in this [video](https://www.youtube.com/watch?v=nY4kQssg3lw)
+
 jekyll-gulp-sass-browser-sync
 =============================
 
