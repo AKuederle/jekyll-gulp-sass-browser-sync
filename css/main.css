@@ -396,4 +396,7 @@ a:visited {
 
 /* Literal.Number.Integer.Long */
 body {
-  background: white; }
+  background: red;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
